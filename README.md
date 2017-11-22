@@ -3,10 +3,10 @@ Group 5 Project Repository
 
 # Project Title - City of Austin 311 Call Analysis
 
-## Team Members: 
+### Team Members: 
 Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 
-## Project Description/Outline
+### Project Description/Outline
 Analyze 311 calls over four year period and address type, time, frequency
 
 ## Research Questions to Answer
