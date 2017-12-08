@@ -36,7 +36,7 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
   Breaking down the distribution of the number of 311 complaints by zip code, we found that the 78745 and 78704 zip codes had the most 311 complaints followed closely by 78702.
   
 <p align="left">
-  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/overviewanimalservices.png?raw=true "Animal Services 311 Calls" width="500"/>
+  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Number_311_calls_zip.jpg?raw=true "311 Complaints by Zip Code" width="500"/>
 </p>
 
 
