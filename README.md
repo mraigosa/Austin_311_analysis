@@ -69,7 +69,7 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png?raw=true "311 Calls in Four Zip Codes" width="500"/>
 </p>                                                                                                                                
   
-This correlation demands that we assess composition of calls by percentage of total within each zip code rather than raw counts.  
+This correlation demands that we assess composition of calls by percentages within each zip code rather than raw counts. The chart below illustrates the varying composition of calls within each zip code. The zipcode with the lowest median household income has the most balanced composition of 311 calls between the five departments.  
 
 <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Household_Inocme_vs_Department.png?raw=true "Household Income vs Department/Type" width="500"/>
