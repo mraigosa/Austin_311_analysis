@@ -46,8 +46,10 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 
 ### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 complaints?
 
-https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png
-
+  Goal was to identify four zip codes with varying household incomes
+<p align="left">
+  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png?raw=true "311 Calls in Four Zip Codes" width="500"/>
+</p>
 
 
 ### The data sets we used are:
