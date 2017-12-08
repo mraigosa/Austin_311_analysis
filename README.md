@@ -61,17 +61,16 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 
 
 
-### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 complaints?
+### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 calls?
 
-  Goal was to identify four zip codes with varying median household income.  Zip codes selected had the highest calls per capita within each of the four custom groups of zip codes binned by household income. The types of 311 calls were determined by the handling department.  The analysis above identified the five departments that handle the majority of the calls.  Analyzing 311 calls from these five departments and four zip codes reveals the correlation between median household income and the number of 311 calls made.
+  Goal was to identify four zip codes with varying median household incomes.  Zip codes selected had the highest calls per capita within each of the four custom groups of zip codes binned by household income. The types of 311 calls were determined by the handling department.  The analysis above identified the five departments that handle the majority of the calls.  Analyzing 311 calls from these five departments and four zip codes reveal the correlation between median household income and the number of 311 calls made. The four selected zip codes illustrate this correlation.
   
 <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png?raw=true "311 Calls in Four Zip Codes" width="500"/>
-</p>
-                                                                                                                                                
+</p>                                                                                                                                
   
-  
-After identifying four varying zip codes by household income and five highest department/types, we analyzed the composition of calls within each zip code.
+This correlation demands that we assess composition of calls by percentage of total within each zip code rather than raw counts.  
+
 <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Household_Inocme_vs_Department.png?raw=true "Household Income vs Department/Type" width="500"/>
 </p>
