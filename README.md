@@ -50,7 +50,13 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png?raw=true "311 Calls in Four Zip Codes" width="500"/>
 </p>
-
+                                                                                                                                                
+  
+  
+After identifying four varing zip codes by household income and five highest department/types, we analyzed the composition of calls within each zip code.
+<p align="left">
+  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Household_Inocme_vs_Department.png?raw=true "Household Income vs Department/Type" width="500"/>
+</p>
 
 ### The data sets we used are:
 - City of Austin, austin_311_service_requests.csv
