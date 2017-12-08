@@ -14,7 +14,7 @@ Analyze 311 calls in the City of Austin over a four year period and find pattern
   Do concerns vary by social/econimic demographics or time of year?
   
   <p align="center">
-  <img src="relative/path/to/overviewcodedepartment.png?raw=true "311 Calls by City Services Department" width="350"/>
+  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/overviewcodedepartment.png?raw=true "311 Calls by City Services Department" width="350"/>
 </p>
   
 ### Data Sets to be Used
