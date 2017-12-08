@@ -39,6 +39,7 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Number_311_calls_zip.jpg?raw=true "311 Complaints by Zip Code" width="500"/>
 </p>
 
+  To get a better visual representation of 311 complaints we decided to plot the number of 311 complaints for each zip code on an Austin map. The first approach was use a matplotlib module Basemap. The documentation for Basemap can be found [here](http://matplotlib.org/basemap/). For this approach we downloaded the zip codes for the United States and then used a boundary tool called [BoundingBox](http://boundingbox.klokantech.com/) to select the latitude and longitude coordinates of Travis county to use with Basemap. Finally, as shown in the figure below, we plotted the number of 311 calls in the zip codes as the area of a circle, where the size of the circle increases as the number of 311 calls increases. 
 
 ### Question 4: Is there any correlation between the number 311 calls and income, population or the number of crimes by zip code?
 
