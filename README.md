@@ -46,14 +46,14 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 </p>
  
   
-  Although visual was a nice representation we wanted to get a heatmap of the 311 complaints for Travis county. To do this we used [gmaps](https://hpneo.github.io/gmaps/), which needs to be downloaded and installed in the Anaconda folder. Gmaps uses javascript through an API to map the area of interest and be able to apply a variety of visualization affects, like heat mapping. 
+  Although visual was a nice representation we wanted to get a heatmap of the 311 complaints for Travis county. To do this we used [gmaps](https://hpneo.github.io/gmaps/), which needs to be downloaded and installed in the Anaconda folder. Gmaps uses javascript through an API to map the area of interest and be able to apply a variety of visualization affects, like heat mapping.
   
-    For this approach, we had to get the latitude and longitude of the area we wished to map. We downlaoded the Texas zip codes from the US Census Bureau and then uploaded them to [mapshapper](http://mapshaper.org/) then narrowed in on the Travis county area and copied the latitude and longitude boundary box and use mapshapper to create Geojson file to export. We used this Geojson file to set our area which we wanted to map in gmaps and plot our data.  As shown in the image below we were able to map each 311 complaint (272,000) for over three years. Since, we map so many 311 complaints its difficult to see which zip code areas have the most. But it is clear that the central corrodoor has the most 311 complaints.
+  For this approach, we had to get the latitude and longitude of the area we wished to map. We downlaoded the Texas zip codes from the US Census Bureau and then uploaded them to [mapshapper](http://mapshaper.org/) then narrowed in on the Travis county area and copied the latitude and longitude boundary box and use mapshapper to create Geojson file to export. We used this Geojson file to set our area which we wanted to map in gmaps and plot our data.  As shown in the image below we were able to all 272,000 311 complain for over three years. Since, we map so many 311 complaints its difficult to see which zip code areas have the most. But it is clear that the central corrodoor has the most 311 complaints.
  
-                                                                                                                                                    <p align="left">
+ <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Google_heatmap_Austin311.png?raw=true "311 Complaints by Zip Code" width="500"/>
 </p>
-    
+                                                                                                                                                    
 
 ### Question 4: Is there any correlation between the number 311 calls and income, population or the number of crimes by zip code?
 
