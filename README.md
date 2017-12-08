@@ -63,9 +63,9 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 
 ### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 complaints?
 
-  Goal was to identify four zip codes with varying household income.  Zip codes selected were had the highest calls per capita within each of the four custom groups of zip codes binned by household income. The types of 311 calls are determined by the handling department.  The analysis above identified the five departments that handle the majority of the calls.
+  Goal was to identify four zip codes with varying median household income.  Zip codes selected had the highest calls per capita within each of the four custom groups of zip codes binned by household income. The types of 311 calls were determined by the handling department.  The analysis above identified the five departments that handle the majority of the calls.  Analyzing 311 calls from these five departments and four zip codes reveals the correlation between median household income and the number of 311 calls made.
   
-<p align="left"> 
+<p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png?raw=true "311 Calls in Four Zip Codes" width="500"/>
 </p>
                                                                                                                                                 
