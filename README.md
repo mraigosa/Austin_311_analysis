@@ -13,6 +13,10 @@ Analyze 311 calls in the City of Austin over a four year period and find pattern
   What are the concerns of the citizens of the City of Austin?
   Do concerns vary by social/econimic demographics or time of year?
   
+  <p align="center">
+  <img src="relative/path/to/overviewcodedepartment.png?raw=true "311 Calls by City Services Department" width="350"/>
+</p>
+  
 ### Data Sets to be Used
   City of Austin, austin_311_service_requests.csv
   Social/Economic census data for Austin, TX by zipcode
