@@ -72,7 +72,9 @@ In order to analyze complaint counts by income, zip-codes were categorized into 
 
 Then we analyzed the 2016 Annual Crime report with the number of complaints for 2016. Crime reports were grouped by zip-code to get total crime reports per zip-code. The correlation between the number of complaints and crime reported is not statistically relevant but does suggest that those that live in higher crime rates have a higher number of complaints. 
 
-
+<p align="left">
+  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Complaint_crime_regression.png?raw=true "311 Complaints by Zip Code" width="500"/>
+</p>
 
 ### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 calls?
 
