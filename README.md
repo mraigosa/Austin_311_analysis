@@ -25,7 +25,7 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
   To determine what the major concerns of Austinites over three years we looked at the complaint description and found over 100 different types compliants, which are handled by 20 different departments with the City of Austin government. So, we decided to focus on the distribtution of 311 complaints by department.  We found that the majority of the 311 complaints from 2014 to 2016 where handled by Animal Services, Austin Code, Transportation, Austin Resource Recovery departments and Public Works.
 
 <p align="left">
-  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/overviewcodedepartment.png?raw=true "311 Calls by City Services Department" width="500"/>
+  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/overviewbydepartment.png?raw=true "311 Calls by City Services Department" width="500"/>
 
   Since Austin is considered a pet friendly city it is not surprising to see that the majority of complaints were handled by Animal Services. When we looked at the complaint description for all the complaints handled by Animal Services, we found that loose dogs, assistance from Animal Control, injured/sick made up the majority of these complaints as shown in the figure below.
   <p align="left">
