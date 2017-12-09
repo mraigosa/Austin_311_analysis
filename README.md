@@ -84,13 +84,13 @@ Then we analyzed the 2016 Annual Crime report with the number of complaints for 
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png?raw=true "311 Calls in Four Zip Codes" width="500"/>
 </p>                                                                                                                                
   
-This correlation demands that we assess composition of calls by percentages within each zip code rather than raw counts. The chart below illustrates the varying composition of calls within each zip code. The zipcode with the lowest median household income has the most balanced composition of 311 calls between the five departments.  
+This correlation demands that we assess composition of calls by percentages within each zip code rather than raw counts. The chart below illustrates the varying composition of calls within each zip code. The zip code with the lowest median household income has the most balanced composition of 311 calls between the five departments.  
 
 <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Household_Inocme_vs_Department.png?raw=true "Household Income vs Department/Type" width="500"/>
 </p>
 
- As a lifelong resident of Austin potential bias in analyzing and making conclusions on the data was high.  The lower three selected zip codes' median household income follow the expected pattern with lower incomes in the east and increasing to the west.  In fact, the three zip codes 78702, 78701 and 78703 abut each other east to west in the central core of the city.  The higher density of these centrally located zip codes was the basis their selection based on calls per capita.  Zip code 78739 was the highest median household income zip code selected and it mostly comprised of the Circle C neighborhood in southwest Asutin. Approximately 50% of the calls for the most affluent of the selected zip codes are to the resource recovery department which infers that regardless of income, everybody wants their trash picked up. 
+ As a lifelong resident of Austin potential bias in analyzing and making conclusions on the data was high.  The lower three selected zip codes' median household income follow the expected pattern with lower incomes in the east and increasing to the west.  In fact, the three zip codes 78702, 78701 and 78703 abut each other east to west in the central core of the city.  The higher density of these centrally located zip codes was the basis their selection based on calls per capita.  Zip code 78739 was the highest median household income zip code selected and its mostly comprised of the Circle C neighborhood in southwest Asutin. Approximately 50% of the calls for the most affluent of the selected zip codes are to the resource recovery department which infers that regardless of income, everybody wants their trash picked up. 
 
 ### The data sets we used are:
 - City of Austin, austin_311_service_requests.csv
