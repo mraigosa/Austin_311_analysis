@@ -56,9 +56,13 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 </p>
                                                                                                                                                     
 
-### Question 4: Is there any correlation between the number 311 calls and income, population or the number of crimes by zip code?
+### Question 4: Is there any correlation between the number 311 calls per capita population, income bracket, and crime rate?
 
+To address this question we downloaed population, median household income, crime-rate data from the US Census Bureau. I then used matplotlib to depict the relationship. In order to remove the effect of population on complaint count on the first plot, we decided to plot the 311 complaints/per-capita for each zip code. From the chart below we found that the top-3 zip-codes based on per-capita complaint counts are 78701 (Downtown), 78702 (Central-East Austin) and 78742. 
 
+<p align="left">
+  <img src="?raw=true "311 Complaints by Zip Code" width="500"/>
+</p>
 
 ### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 calls?
 
