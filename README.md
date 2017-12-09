@@ -25,7 +25,7 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
   To determine what the major concerns of Austinites over three years we looked at the complaint description and found over 100 different types compliants, which are handled by 20 different departments with the City of Austin government. So, we decided to focus on the distribtution of 311 complaints by department.  We found that the majority of the 311 complaints from 2014 to 2016 where handled by Animal Services, Austin Code, Transportation, Austin Resource Recovery departments and Public Works.
 
 <p align="left">
-  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/overviewbydepartment.png?raw=true "311 Calls by City Services Department" width="500"/>
+  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/overviewcodedepartment.png?raw=true "311 Calls by City Services Department" width="500"/>
 
   Since Austin is considered a pet friendly city it is not surprising to see that the majority of complaints were handled by Animal Services. When we looked at the complaint description for all the complaints handled by Animal Services, we found that loose dogs, assistance from Animal Control, injured/sick made up the majority of these complaints as shown in the figure below.
   <p align="left">
@@ -61,7 +61,7 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 To address this question we downloaed population, median household income, crime-rate data from the US Census Bureau. I then used matplotlib to depict the relationship. In order to remove the effect of population on complaint count on the first plot, we decided to plot the 311 complaints/per-capita for each zip code. From the chart below we found that the top-3 zip-codes based on per-capita complaint counts are 78701 (Downtown), 78702 (Central-East Austin) and 78742. 
 
 <p align="left">
-  <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Per-capita_complaint_zip.png?raw=true "311 Complaints by Zip Code" width="500"/>
+  <img src="?raw=true "311 Complaints by Zip Code" width="500"/>
 </p>
 
 ### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 calls?
@@ -72,11 +72,13 @@ To address this question we downloaed population, median household income, crime
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/four_zip_codes.png?raw=true "311 Calls in Four Zip Codes" width="500"/>
 </p>                                                                                                                                
   
-This correlation demands that we assess composition of calls by percentages within each zip code rather than raw counts. The chart below illustrates the varying composition of calls within each zip code. The zipcode with the lowest median household income has the most balanced composition of 311 calls between the five departments.  
+  This correlation demands that we assess composition of calls by percentages within each zip code rather than raw counts. The chart below illustrates the varying composition of calls within each zip code. The zipcode with the lowest median household income has the most balanced composition of 311 calls between the five departments.  
 
 <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Household_Inocme_vs_Department.png?raw=true "Household Income vs Department/Type" width="500"/>
 </p>
+
+  As a lifelong resident of Austin potential bias in analyzing and making conclusions on the data was high.  The lower three selected zip codes' median household income follow the expected pattern with lower incomes in the east and increasing to the west.  In fact, the three zip codes 78702, 78701 and 78703 abut each other east to west in the central core of the city.  The higher density of these centrally located zip codes was the basis their selection based on calls per capita.  Zip code 78739 was the highest median household income zip code selected and it mostly comprised of the Circle C neighborhood in southwest Asutin. Approximately 50% of the calls for the most affluent of the selected zip codes are to the resource recovery department which infers that regardless of income, everybody wants their trash picked up. 
 
 ### The data sets we used are:
 - City of Austin, austin_311_service_requests.csv
