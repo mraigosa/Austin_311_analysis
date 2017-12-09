@@ -48,7 +48,7 @@ Tom Berton, Donna Dietrich, Mike Raigosa, Bopanna Malachira
 </p>
  
   
-  The second approach was to plot the same data above but to represent it as a heat map instead of circle size. For this approach we installed and used [gmaps](https://hpneo.github.io/gmaps/). Gmaps uses JavaScript through an API to map the area of interest and is able to apply a variety of visualization affects, like heat mapping. We used the Texas zip codes from the US Census Bureau and uploaded them to [mapshapper](http://mapshaper.org/).  From mapshapper we focused in on the Travis county area and used the latitude and longitude boundary box to create Geojson file to export. The Geojson file was used in the Jupyter Notebook to map the zip code areas in gmaps with our 311 call data.  As shown in the image below we were able to plot all of the 272,000 311 complaints over three years. Since, we mapped so many 311 complaints it was challenging to determine which zip code have the most complaints based on intensity, however it is clear that the central corridor in Austin has the most 311 complaints.
+  The second approach was to plot the same data above but to represent it as a heat map instead of circle size. For this approach we installed and used [gmaps](https://hpneo.github.io/gmaps/). Gmaps uses JavaScript through an API to map the area of interest and is able to apply a variety of visualization affects, like heat mapping. We used the Texas zip codes from the US Census Bureau and uploaded them to [mapshapper](http://mapshaper.org/).  From mapshapper we focused in on the Travis county area and used the latitude and longitude boundary box to create Geojson file to export. The Geojson file was used in the Jupyter Notebook to map the zip code areas in gmaps with our 311 call data.  As shown in the image below we were able to plot all of the 422,000 311 complaints over three years. Since, we mapped so many 311 complaints it was challenging to determine which zip code have the most complaints based on intensity, however it is clear that the central corridor in Austin has the most 311 complaints.
 
  
  <p align="left">
@@ -71,10 +71,10 @@ In order to analyze complaint counts by income, zip-codes were categorized into 
 </p>
 
 Then we analyzed the 2016 Annual Crime report with the number of complaints for 2016. Crime reports were grouped by zip-code to get total crime reports per zip-code. The correlation between the number of complaints and crime reported is not statistically relevant but does suggest that those that live in higher crime rates have a higher number of complaints. 
+
 <p align="left">
   <img src="https://github.com/mraigosa/Group_5_Project/blob/master/images/Complaint_crime_regression.png?raw=true "311 Complaints by Zip Code" width="500"/>
 </p>
-
 
 ### Question 5: How do four different neighborhoods in Austin that vary in household income differ in the types of 311 calls?
 
